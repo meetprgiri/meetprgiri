@@ -1,5 +1,5 @@
-# 💫 About Me:
-Prafull Giri: Recently certified web developer specializing in the MERN stack<br>Objective: Committed to delivering innovative coding solutions in a collaborative environment<br>Education: Master's in Computer Science (2022-2024) and Bachelor's in Computer Science (2019-2022)<br>Skills: Proficient in JavaScript, HTML, CSS, Java, Git, MongoDB, Express.js, React, Node.js, MySQL, Tailwind CSS<br>Projects: Developed JobPortal and ClickCart, showcasing expertise in React, Node.js, and MongoDB<br>Certification: Web Development (MERN)<br>
+
+meetprgiri: <br>
 
 
 # 💻 Tech Stack:
