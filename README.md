@@ -1,5 +1,5 @@
 
-#  meetprgiri:
+#  meetprgiri
 
 
 # 💻 Tech Stack:
